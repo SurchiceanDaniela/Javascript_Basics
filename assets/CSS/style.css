@@ -1,0 +1,76 @@
+h1 {
+  font-family: "Trirong", serif;
+  font-size: 100 !important;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+section#contatore {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.btn {
+  width: 100%;
+}
+
+button#bottone-crescente {
+  border-radius: 0px 50px 0px 50px;
+}
+
+button#bottone-decrescente {
+  border-radius: 50px 0px 50px 0px;
+}
+
+div#contatore {
+  background: #fff;
+  color: black;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+button#bottone-reset {
+  margin-top: 30px;
+}
+
+.conversionemetri>.col-12 {
+  text-align: center;
+  padding-top: 10px;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+  height: 100%;
+}
+
+
+img.icona-git {
+  width: 30px;
+}
