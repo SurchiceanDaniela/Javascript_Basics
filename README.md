@@ -1,6 +1,6 @@
 # StepSync
 StepSync is JS Counter created by Daniela for the purpose of counting steps and converting the number of steps into metres and kilometers travelled
-available at the url https://firebasestorage.googleapis.com/v0/b/javascript-basics-35916.appspot.com/o/index.html?alt=media&token=972f5d50-2159-4a45-a9a6-28efee48a000
+available at the url
 
 
 ## Table of Contents
