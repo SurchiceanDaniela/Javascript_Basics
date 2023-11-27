@@ -1,7 +1,6 @@
 # StepSync
 StepSync is JS Counter created by Daniela for the purpose of counting steps and converting the number of steps into metres and kilometers travelled
-available at the url https://app.netlify.com/sites/scintillating-gumdrop-0b3562/deploys/6565003ebcbf582763c82463
-
+available at the url https://main--scintillating-gumdrop-0b3562.netlify.app/
 
 ## Table of Contents
 ### Introduction
