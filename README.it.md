@@ -36,6 +36,8 @@ Firebase, l'hosting gratuito per ospitare il progetto e renderlo visibile.
 ## Usabilità
 
 Usare il contatore è molto semplice. Il valore del contatore viene aumentato e diminuito di 1 con un clic sui pulsanti + / -. Per azzerare il valore corrente basta cliccare sul pulsante reset.
+Ogni passo è convertito in unità metro, quindi un passo equivale a 0.6 metri.
+Inoltre quando i metri calcolati arrivano a 1000 in automatico questi vengono convertiti in kilometri e l’unità di misura passa da metri a kilometri.
 
 ## Responsive
 
