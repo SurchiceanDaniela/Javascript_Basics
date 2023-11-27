@@ -69,7 +69,7 @@ function conversionepassimetri(cont) {
   if (cont >= 0) {
     let conversione = 0.6 * cont;
     let unitamisura="metri";
-    if(conversione>100){
+    if(conversione>1000){
       //conversione da m in km
       conversione= conversione/1000;
       unitamisura="kilometri";
