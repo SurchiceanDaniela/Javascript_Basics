@@ -1,5 +1,5 @@
 # StepSync
-StepSync is JS Counter created by Daniela for the purpose of counting steps and converting the number of steps into metres travelled
+StepSync is JS Counter created by Daniela for the purpose of counting steps and converting the number of steps into metres and kilometers travelled
 available at the url https://firebasestorage.googleapis.com/v0/b/javascript-basics-35916.appspot.com/o/index.html?alt=media&token=972f5d50-2159-4a45-a9a6-28efee48a000
 
 
@@ -12,7 +12,7 @@ available at the url https://firebasestorage.googleapis.com/v0/b/javascript-basi
 
 ## Introduction
 The project consists of the creation of a counter that allows the user to increase and decrease its value, which will initially be 0, by 1 using the two +/- buttons.
-In addition to the basic functions, I have created a reset button, which allows the counter value to be reset to zero, and the converter function which converts the number of steps into metres.
+In addition to the basic functions, I have created a reset button, which allows the counter value to be reset to zero, and the converter function which converts the number of steps into metres and kilometers.
 
 ## Structure
 The structure of the project:
