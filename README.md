@@ -32,6 +32,8 @@ Firebase, the free hosting to host the project and make it visible.
 
 ## Usability
 Using the counter is very simple. The counter value is increased and decreased by 1 with a click on the + / - buttons. To reset the current value, simply click on the reset button.
+Each step is converted to meter units, so one step is equivalent to 0.6 meters.
+In addition, when the calculated meters reach 1000 automatically these are converted to kilometers and the unit of measurement changes from meters to kilometers.
 
 ## Responsive
 Thanks to the use of Media Queries, I was able to take care of the Responsive aspect of the counter and the site, which adapts perfectly to the changing size of the device on which it is displayed.
