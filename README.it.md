@@ -20,7 +20,7 @@ La struttura del progetto:
 
 index.html : contiene la struttura portante del progetto, nella quale sono inseriti il foglio di stile (CSS) per la grafica del conta passi e lo script per le funzioni.
 styles.css: il foglio di stile con cui ho creato lo stile e la grafica del conta passi.
-script.js : script utilizzato per creare i vari elementi HTML e le funzioni contatore (aumenta/diminuisci, azzera e la conversione di passi in metri).
+script.js : script utilizzato per creare i vari elementi HTML e le funzioni contatore (aumenta/diminuisci, azzera e la conversione di passi in metri e kilometri).
 
 ## Tecnologie Usate
 
