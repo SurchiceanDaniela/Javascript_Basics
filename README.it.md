@@ -1,5 +1,5 @@
 # StepSync
-StepSync è JS Counter realizzato da Daniela con lo scopo di contare i passi e convertire il numero di passi in metri percorsi
+StepSync è JS Counter realizzato da Daniela con lo scopo di contare i passi e convertire il numero di passi in metri e in kilometri percorsi
 disponibile al url https://firebasestorage.googleapis.com/v0/b/javascript-basics-35916.appspot.com/o/index.html?alt=media&token=972f5d50-2159-4a45-a9a6-28efee48a000
 
 
@@ -13,7 +13,7 @@ disponibile al url https://firebasestorage.googleapis.com/v0/b/javascript-basics
 ## Introduzione
 
 Il progetto consiste nella creazione di un contatore che permette all'utente di incrementare e decrementare di 1 il proprio valore, che inizialmente sarà 0, utilizzando i due pulsanti +/-.
-Oltre alle funzioni base, ho creato, un pulsante reset, che permette di azzerare il valore del contatore e la funzione convertitore che trasforma il numero di passi in metri.
+Oltre alle funzioni base, ho creato, un pulsante reset, che permette di azzerare il valore del contatore e la funzione convertitore che trasforma il numero di passi in metri e kilometri.
 
 ## Struttura
 
