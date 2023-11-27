@@ -18,7 +18,7 @@ The structure of the project:
 
 index.html : contains the backbone structure of the project, in which the style sheet (CSS) for the graphics of the step counter and the script for the functions are inserted.
 styles.css: the style sheet with which I created the style and graphics of the step counter.
-script.js: script used to create the various HTML elements and the counter functions (increase/decrease, reset and the conversion of steps to metres).
+script.js: script used to create the various HTML elements and the counter functions (increase/decrease, reset and the conversion of steps to metres and kilometers).
 
 ## Technologies Used
 I used several technologies to create the StepSync counter:
