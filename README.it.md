@@ -1,7 +1,6 @@
 # StepSync
 StepSync è JS Counter realizzato da Daniela con lo scopo di contare i passi e convertire il numero di passi in metri e in kilometri percorsi
-disponibile al url https://firebasestorage.googleapis.com/v0/b/javascript-basics-35916.appspot.com/o/index.html?alt=media&token=972f5d50-2159-4a45-a9a6-28efee48a000
-
+disponibile al url https://app.netlify.com/sites/scintillating-gumdrop-0b3562/deploys/6565003ebcbf582763c82463
 
 ## Tabella dei Contenuti
 ### Introduzione
